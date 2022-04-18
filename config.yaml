@@ -116,11 +116,11 @@ menu:
   main:
     - identifier: categories
       name: categories
-      url: /categories/
+      url: /hugo/categories/
       weight: 10
     - identifier: tags
       name: tags
-      url: /tags/
+      url: /hugo/tags/
       weight: 20
     - identifier: example
       name: example.org
