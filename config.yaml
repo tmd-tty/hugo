@@ -1,5 +1,7 @@
 baseURL: https://tmdjp.github.io/hugo/
 publishDir: docs
+canonifyurls: true
+
 title: ExampleSite
 paginate: 5
 theme: PaperMod
