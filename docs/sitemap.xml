@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://tmdjp.github.io/hugo/categories/</loc>
-  </url><url>
     <loc>https://tmdjp.github.io/hugo/</loc>
+    <lastmod>2022-04-17T15:37:32+09:00</lastmod>
+  </url><url>
+    <loc>https://tmdjp.github.io/hugo/posts/</loc>
+    <lastmod>2022-04-17T15:37:32+09:00</lastmod>
+  </url><url>
+    <loc>https://tmdjp.github.io/hugo/posts/test/</loc>
+    <lastmod>2022-04-17T15:37:32+09:00</lastmod>
+  </url><url>
+    <loc>https://tmdjp.github.io/hugo/categories/</loc>
   </url><url>
     <loc>https://tmdjp.github.io/hugo/tags/</loc>
   </url>
