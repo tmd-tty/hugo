@@ -8,6 +8,16 @@
       <url>https://tmdjp.github.io/hugo/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://tmdjp.github.io/hugo/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://tmdjp.github.io/hugo/categories/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 21 Apr 2022 10:02:00 +0900</lastBuildDate><atom:link href="https://tmdjp.github.io/hugo/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>tech</title>
+      <link>https://tmdjp.github.io/hugo/categories/tech/</link>
+      <pubDate>Thu, 21 Apr 2022 10:02:00 +0900</pubDate>
+      
+      <guid>https://tmdjp.github.io/hugo/categories/tech/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
