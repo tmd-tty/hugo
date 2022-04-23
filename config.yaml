@@ -2,7 +2,7 @@ baseURL: https://tmdjp.github.io/hugo/
 publishDir: docs
 canonifyurls: true
 
-title: ExampleSite
+title: Idereal
 paginate: 5
 theme: PaperMod
 
@@ -52,7 +52,7 @@ params:
     safari_pinned_tab: "<link / abs url>"
 
   label:
-    text: "tmdjp"
+    text: "Idereal"
     icon: image/logo.png
     iconHeight: 25
 
