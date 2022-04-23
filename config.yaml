@@ -19,7 +19,7 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: ExampleSite
+  title: Idereal
   description: "ExampleSite description"
   keywords: [Blog, Portfolio, PaperMod]
   author: tmd
@@ -59,7 +59,7 @@ params:
   # profile-mode
   profileMode:
     enabled: false # needs to be explicitly set
-    title: ExampleSite
+    title: Idereal
     subtitle: "This is subtitle"
     imageUrl: "<img location>"
     imageWidth: 120
