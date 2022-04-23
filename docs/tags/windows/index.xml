@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>windows on ExampleSite</title>
-    <link>https://tmdjp.github.io/hugo/tags/windows/</link>
-    <description>Recent content in windows on ExampleSite</description>
+    <title>windows on Idereal</title>
+    <link>https://tmd-tty.github.io/hugo/tags/windows/</link>
+    <description>Recent content in windows on Idereal</description>
     <image>
-      <url>https://tmdjp.github.io/hugo/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://tmdjp.github.io/hugo/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://tmd-tty.github.io/hugo/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://tmd-tty.github.io/hugo/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 21 Apr 2022 10:02:00 +0900</lastBuildDate><atom:link href="https://tmdjp.github.io/hugo/tags/windows/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 21 Apr 2022 10:02:00 +0900</lastBuildDate><atom:link href="https://tmd-tty.github.io/hugo/tags/windows/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>wsl</title>
-      <link>https://tmdjp.github.io/hugo/posts/20220421_wsl/</link>
+      <link>https://tmd-tty.github.io/hugo/posts/20220421_wsl/</link>
       <pubDate>Thu, 21 Apr 2022 10:02:00 +0900</pubDate>
       
-      <guid>https://tmdjp.github.io/hugo/posts/20220421_wsl/</guid>
+      <guid>https://tmd-tty.github.io/hugo/posts/20220421_wsl/</guid>
       <description>環境 Microsoft Windows [Version 10.0.19043.1645]
 事前準備 BIOSメニューにて、SVM Modeを有効にする。
 インストール 管理者で以下を実行。

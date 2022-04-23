@@ -1,45 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>https://tmdjp.github.io/hugo/categories/</loc>
+    <loc>https://tmd-tty.github.io/hugo/categories/</loc>
     <lastmod>2022-04-21T10:02:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tmdjp.github.io/hugo/</loc>
+  </url><url>
+    <loc>https://tmd-tty.github.io/hugo/</loc>
     <lastmod>2022-04-21T10:02:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tmdjp.github.io/hugo/tags/</loc>
+  </url><url>
+    <loc>https://tmd-tty.github.io/hugo/tags/</loc>
     <lastmod>2022-04-21T10:02:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tmdjp.github.io/hugo/categories/tech/</loc>
+  </url><url>
+    <loc>https://tmd-tty.github.io/hugo/categories/tech/</loc>
     <lastmod>2022-04-21T10:02:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tmdjp.github.io/hugo/tags/windows/</loc>
+  </url><url>
+    <loc>https://tmd-tty.github.io/hugo/tags/windows/</loc>
     <lastmod>2022-04-21T10:02:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tmdjp.github.io/hugo/posts/20220421_wsl/</loc>
+  </url><url>
+    <loc>https://tmd-tty.github.io/hugo/posts/20220421_wsl/</loc>
     <lastmod>2022-04-21T10:02:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tmdjp.github.io/hugo/posts/</loc>
+  </url><url>
+    <loc>https://tmd-tty.github.io/hugo/posts/</loc>
     <lastmod>2022-04-21T03:15:44+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tmdjp.github.io/hugo/posts/test2/</loc>
+  </url><url>
+    <loc>https://tmd-tty.github.io/hugo/posts/test2/</loc>
     <lastmod>2022-04-21T02:56:47+09:00</lastmod>
   </url>
-  
 </urlset>
