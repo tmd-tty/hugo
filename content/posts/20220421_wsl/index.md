@@ -7,6 +7,7 @@ categories:
 - tech
 tags: 
 - wsl
+- git
 - homebrew
 ---
 ## 環境
@@ -35,8 +36,8 @@ BIOSメニューにて、SVM Modeを有効にする。
 ```
 
 ### アンインストール
-+ 設定 > アプリと機能 > `Windows Subsystem for Linux`をアンインストール
-+ コントロールパネル > プログラム > プログラムと機能 > Windowsの機能の有効化または無効化 > 「Linux用Windowsサブシステム」のチェックを外す
+1. 設定 > アプリと機能 > `Windows Subsystem for Linux`をアンインストール
+1. コントロールパネル > プログラム > プログラムと機能 > Windowsの機能の有効化または無効化 > 「Linux用Windowsサブシステム」のチェックを外す
 
 ### .wslconfigの設定
 `%UserProfile%`に`.wslconfig`を作成して編集する。  
@@ -57,12 +58,12 @@ $ git config --global user.name {name}
 $ git config --global user.email {mail address}
 ```
 
-### githubの認証が面倒なので、credential managerのインストール
-+ [こちら](https://github.com/microsoft/Git-Credential-Manager-for-Windows)からインストーラを落として実行。
+### credential managerのインストール
+githubの認証が面倒なので、credential managerをインストール。  
+[こちら](https://github.com/microsoft/Git-Credential-Manager-for-Windows)からインストーラを落として実行。
 ```
 $ git config --global credential.helper "/mnt/c/Program\ Files/Git/mingw64/libexec/git-core/git-credential-manager.exe"
 ```
 
 ## パッケージマネージャー
-MACユーザーなのでHome brewをインストール。
-+ https://brew.sh/index_ja
+MACユーザーなので[Home brew](https://brew.sh/index_ja)をインストール。
