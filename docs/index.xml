@@ -11,7 +11,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Thu, 21 Apr 2022 10:02:00 +0900</lastBuildDate><atom:link href="https://tmd-tty.github.io/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>wsl</title>
+      <title>wslのインストール、アンインストール</title>
       <link>https://tmd-tty.github.io/hugo/posts/20220421_wsl/</link>
       <pubDate>Thu, 21 Apr 2022 10:02:00 +0900</pubDate>
       
@@ -32,6 +32,8 @@ wsl --update アンインストール  設定 &amp;gt; アプリと機能 &amp;g
       <guid>https://tmd-tty.github.io/hugo/posts/test2/</guid>
       <description>test3 </description>
     </item>
+    
+    
     
   </channel>
 </rss>

@@ -118,17 +118,21 @@ menu:
       name: posts
       url: /hugo/posts/
       weight: 5
+    - identifier: archives
+      name: archives
+      url: /hugo/archives/
+      weight: 10
     - identifier: categories
       name: categories
       url: /hugo/categories/
-      weight: 10
+      weight: 15
     - identifier: tags
       name: tags
       url: /hugo/tags/
       weight: 20
-    - identifier: example
-      name: example.org
-      url: https://example.org
+    - identifier: search
+      name: search
+      url: /hugo/search/
       weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 # pygmentsUseClasses: true
@@ -139,3 +143,8 @@ menu:
 #         guessSyntax: true
 #         lineNos: true
 #         style: monokai
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON # is necessary

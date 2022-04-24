@@ -1,5 +1,5 @@
 ---
-title: "wsl"
+title: "wslのインストール、アンインストール"
 date: 2022-04-21T10:02:00+09:00
 draft: false
 categories:
