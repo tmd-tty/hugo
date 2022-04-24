@@ -20,11 +20,11 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Idereal
-  description: "ExampleSite description"
+  description: "tmdのブログ"
   keywords: [Blog, Portfolio, PaperMod]
   author: tmd
   # author: ["Me", "You"] # multiple authors
-  images: [image/buta.png]
+  images: [image/buta.png] # default eye catch image
   DateFormat: "January 2, 2006"
   defaultTheme: dark # dark, light auto
   disableThemeToggle: false
