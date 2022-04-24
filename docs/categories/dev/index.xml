@@ -1,24 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Idereal</title>
-    <link>https://tmd-tty.github.io/hugo/</link>
-    <description>Recent content on Idereal</description>
+    <title>dev on Idereal</title>
+    <link>https://tmd-tty.github.io/hugo/categories/dev/</link>
+    <description>Recent content in dev on Idereal</description>
     <image>
       <url>https://tmd-tty.github.io/hugo/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://tmd-tty.github.io/hugo/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 24 Apr 2022 22:49:51 +0900</lastBuildDate><atom:link href="https://tmd-tty.github.io/hugo/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>20220424</title>
-      <link>https://tmd-tty.github.io/hugo/posts/2022/04/24/</link>
-      <pubDate>Sun, 24 Apr 2022 22:49:51 +0900</pubDate>
-      
-      <guid>https://tmd-tty.github.io/hugo/posts/2022/04/24/</guid>
-      <description>a </description>
-    </item>
-    
+    <lastBuildDate>Thu, 21 Apr 2022 10:02:00 +0900</lastBuildDate><atom:link href="https://tmd-tty.github.io/hugo/categories/dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Windows開発環境構築</title>
       <link>https://tmd-tty.github.io/hugo/posts/2022/04/21/</link>
@@ -34,8 +25,6 @@ WSL2 事前準備 BIOSメニューにて、SVM Modeを有効にする。
 詳細はこちら。
  localhostForwarding: booleanで、localhost にバインドされたポートにホストから接続できるかどうかを指定する。  aptの更新 &amp;gt; wsl $ sudo apt update &amp;amp;&amp;amp; sudo apt upgrade git gitの設定 $ git config --global user.name {name} $ git config --global user.</description>
     </item>
-    
-    
     
   </channel>
 </rss>

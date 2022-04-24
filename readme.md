@@ -1,0 +1,11 @@
+# categories
+## hobby
++ gadget
+## work
++ dev
++ management
++ language
+## lifestyle
++ review
+## other
++ scratchpad

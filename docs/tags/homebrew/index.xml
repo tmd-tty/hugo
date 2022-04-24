@@ -12,10 +12,10 @@
     <lastBuildDate>Thu, 21 Apr 2022 10:02:00 +0900</lastBuildDate><atom:link href="https://tmd-tty.github.io/hugo/tags/homebrew/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Windows開発環境構築</title>
-      <link>https://tmd-tty.github.io/hugo/posts/20220421_wsl/</link>
+      <link>https://tmd-tty.github.io/hugo/posts/2022/04/21/</link>
       <pubDate>Thu, 21 Apr 2022 10:02:00 +0900</pubDate>
       
-      <guid>https://tmd-tty.github.io/hugo/posts/20220421_wsl/</guid>
+      <guid>https://tmd-tty.github.io/hugo/posts/2022/04/21/</guid>
       <description>環境 Microsoft Windows [Version 10.0.19043.1645]
 WSL2 事前準備 BIOSメニューにて、SVM Modeを有効にする。
 インストール 管理者で以下を実行。

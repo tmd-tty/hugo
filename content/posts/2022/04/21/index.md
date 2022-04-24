@@ -2,9 +2,8 @@
 title: "Windows開発環境構築"
 date: 2022-04-21T10:02:00+09:00
 draft: false
-showToc: true
 categories:
-- tech
+- dev
 tags: 
 - wsl
 - git
@@ -19,19 +18,19 @@ BIOSメニューにて、SVM Modeを有効にする。
 
 ### インストール
 管理者で以下を実行。
-```
+```shell
 > wsl --install
 ```
 完了後再起動。
 
 ### 確認
-```
+```shell
 > wsl --status
 ```
 
 ### アップデート
 管理者で以下を実行
-```
+```shell
 > wsl --update
 ```
 
@@ -46,14 +45,14 @@ BIOSメニューにて、SVM Modeを有効にする。
 
 
 ## aptの更新
-```
+```shell
 > wsl
 $ sudo apt update && sudo apt upgrade
 ```
 
 ## git
 ### gitの設定
-```
+```shell
 $ git config --global user.name {name}
 $ git config --global user.email {mail address}
 ```
@@ -61,7 +60,7 @@ $ git config --global user.email {mail address}
 ### credential managerのインストール
 githubの認証が面倒なので、credential managerをインストール。  
 [こちら](https://github.com/microsoft/Git-Credential-Manager-for-Windows)からインストーラを落として実行。
-```
+```shell
 $ git config --global credential.helper "/mnt/c/Program\ Files/Git/mingw64/libexec/git-core/git-credential-manager.exe"
 ```
 

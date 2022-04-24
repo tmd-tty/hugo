@@ -11,11 +11,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Thu, 21 Apr 2022 03:15:44 +0900</lastBuildDate><atom:link href="https://tmd-tty.github.io/hugo/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>20220424</title>
+      <link>https://tmd-tty.github.io/hugo/posts/2022/04/24/</link>
+      <pubDate>Sun, 24 Apr 2022 22:49:51 +0900</pubDate>
+      
+      <guid>https://tmd-tty.github.io/hugo/posts/2022/04/24/</guid>
+      <description>a </description>
+    </item>
+    
+    <item>
       <title>Windows開発環境構築</title>
-      <link>https://tmd-tty.github.io/hugo/posts/20220421_wsl/</link>
+      <link>https://tmd-tty.github.io/hugo/posts/2022/04/21/</link>
       <pubDate>Thu, 21 Apr 2022 10:02:00 +0900</pubDate>
       
-      <guid>https://tmd-tty.github.io/hugo/posts/20220421_wsl/</guid>
+      <guid>https://tmd-tty.github.io/hugo/posts/2022/04/21/</guid>
       <description>環境 Microsoft Windows [Version 10.0.19043.1645]
 WSL2 事前準備 BIOSメニューにて、SVM Modeを有効にする。
 インストール 管理者で以下を実行。
@@ -24,15 +33,6 @@ WSL2 事前準備 BIOSメニューにて、SVM Modeを有効にする。
 &amp;gt; wsl --update アンインストール  設定 &amp;gt; アプリと機能 &amp;gt; Windows Subsystem for Linuxをアンインストール コントロールパネル &amp;gt; プログラム &amp;gt; プログラムと機能 &amp;gt; Windowsの機能の有効化または無効化 &amp;gt; 「Linux用Windowsサブシステム」のチェックを外す  .wslconfigの設定 %UserProfile%に.wslconfigを作成して編集する。
 詳細はこちら。
  localhostForwarding: booleanで、localhost にバインドされたポートにホストから接続できるかどうかを指定する。  aptの更新 &amp;gt; wsl $ sudo apt update &amp;amp;&amp;amp; sudo apt upgrade git gitの設定 $ git config --global user.name {name} $ git config --global user.</description>
-    </item>
-    
-    <item>
-      <title>Test2</title>
-      <link>https://tmd-tty.github.io/hugo/posts/a/test2/</link>
-      <pubDate>Thu, 21 Apr 2022 02:56:47 +0900</pubDate>
-      
-      <guid>https://tmd-tty.github.io/hugo/posts/a/test2/</guid>
-      <description>test3 </description>
     </item>
     
   </channel>
