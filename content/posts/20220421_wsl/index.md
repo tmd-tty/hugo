@@ -50,10 +50,17 @@ BIOSメニューにて、SVM Modeを有効にする。
 $ sudo apt update && sudo apt upgrade
 ```
 
-## gitの設定
+## git
+### gitの設定
 ```
 $ git config --global user.name {name}
 $ git config --global user.email {mail address}
+```
+
+### githubの認証が面倒なので、credential managerのインストール
++ [こちら](https://github.com/microsoft/Git-Credential-Manager-for-Windows)からインストーラを落として実行。
+```
+$ git config --global credential.helper "/mnt/c/Program\ Files/Git/mingw64/libexec/git-core/git-credential-manager.exe"
 ```
 
 ## パッケージマネージャー

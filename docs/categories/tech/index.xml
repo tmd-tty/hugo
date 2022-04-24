@@ -23,7 +23,7 @@ WSL2 事前準備 BIOSメニューにて、SVM Modeを有効にする。
 確認 &amp;gt; wsl --status アップデート 管理者で以下を実行
 &amp;gt; wsl --update アンインストール  設定 &amp;gt; アプリと機能 &amp;gt; Windows Subsystem for Linuxをアンインストール コントロールパネル &amp;gt; プログラム &amp;gt; プログラムと機能 &amp;gt; Windowsの機能の有効化または無効化 &amp;gt; 「Linux用Windowsサブシステム」のチェックを外す  .wslconfigの設定 %UserProfile%に.wslconfigを作成して編集する。
 詳細はこちら。
- localhostForwarding: booleanで、localhost にバインドされたポートにホストから接続できるかどうかを指定する。  aptの更新 &amp;gt; wsl $ sudo apt update &amp;amp;&amp;amp; sudo apt upgrade gitの設定 $ git config --global user.name {name} $ git config --global user.</description>
+ localhostForwarding: booleanで、localhost にバインドされたポートにホストから接続できるかどうかを指定する。  aptの更新 &amp;gt; wsl $ sudo apt update &amp;amp;&amp;amp; sudo apt upgrade git gitの設定 $ git config --global user.name {name} $ git config --global user.</description>
     </item>
     
   </channel>
