@@ -11,25 +11,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Thu, 21 Apr 2022 03:15:44 +0900</lastBuildDate><atom:link href="https://tmd-tty.github.io/hugo/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>wslのインストール、アンインストール</title>
+      <title>Windows開発環境構築</title>
       <link>https://tmd-tty.github.io/hugo/posts/20220421_wsl/</link>
       <pubDate>Thu, 21 Apr 2022 10:02:00 +0900</pubDate>
       
       <guid>https://tmd-tty.github.io/hugo/posts/20220421_wsl/</guid>
       <description>環境 Microsoft Windows [Version 10.0.19043.1645]
-事前準備 BIOSメニューにて、SVM Modeを有効にする。
+WSL2 事前準備 BIOSメニューにて、SVM Modeを有効にする。
 インストール 管理者で以下を実行。
-wsl --install 完了後再起動。
-確認 wsl --status アップデート 管理者で以下を実行
-wsl --update アンインストール  設定 &amp;gt; アプリと機能 &amp;gt; Windows Subsystem for Linuxをアンインストール コントロールパネル &amp;gt; プログラム &amp;gt; プログラムと機能 &amp;gt; Windowsの機能の有効化または無効化 &amp;gt; 「Linux用Windowsサブシステム」のチェックを外す  </description>
+&amp;gt; wsl --install 完了後再起動。
+確認 &amp;gt; wsl --status アップデート 管理者で以下を実行
+&amp;gt; wsl --update アンインストール  設定 &amp;gt; アプリと機能 &amp;gt; Windows Subsystem for Linuxをアンインストール コントロールパネル &amp;gt; プログラム &amp;gt; プログラムと機能 &amp;gt; Windowsの機能の有効化または無効化 &amp;gt; 「Linux用Windowsサブシステム」のチェックを外す  .wslconfigの設定 %UserProfile%に.wslconfigを作成して編集する。
+詳細はこちら。
+ localhostForwarding: booleanで、localhost にバインドされたポートにホストから接続できるかどうかを指定する。  aptの更新 &amp;gt; wsl $ sudo apt update &amp;amp;&amp;amp; sudo apt upgrade gitの設定 $ git config --global user.name {name} $ git config --global user.</description>
     </item>
     
     <item>
       <title>Test2</title>
-      <link>https://tmd-tty.github.io/hugo/posts/test2/</link>
+      <link>https://tmd-tty.github.io/hugo/posts/a/test2/</link>
       <pubDate>Thu, 21 Apr 2022 02:56:47 +0900</pubDate>
       
-      <guid>https://tmd-tty.github.io/hugo/posts/test2/</guid>
+      <guid>https://tmd-tty.github.io/hugo/posts/a/test2/</guid>
       <description>test3 </description>
     </item>
     
