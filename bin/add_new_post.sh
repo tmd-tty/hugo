@@ -9,4 +9,4 @@ cd ${zettai:0:${#zettai}-20}
 year=$(date "+%Y")
 month=$(date "+%m")
 day=$(date "+%d")
-hugo new posts/$year/$month/$day/$1.md
+hugo new posts/$year/$month/$day/$1/index.md
