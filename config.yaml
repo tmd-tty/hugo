@@ -146,3 +146,10 @@ markup:
 #         guessSyntax: true
 #         lineNos: true
 #         style: monokai
+
+# 検索ページ用。よくわからん。
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # is necessary
