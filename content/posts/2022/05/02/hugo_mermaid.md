@@ -34,7 +34,7 @@ hugo v0.97.3+extended linux/amd64 BuildDate=unknown
 
 `/layouts/partials/extend_footer.html`を作成。
 
-```md
+```html
 {{ if .Page.Store.Get "hasMermaid" }}
   <script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
   <script>
