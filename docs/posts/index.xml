@@ -11,6 +11,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Thu, 21 Apr 2022 03:15:44 +0900</lastBuildDate><atom:link href="https://tmd-tty.github.io/hugo/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Hugoでmermeaidを表示する</title>
+      <link>https://tmd-tty.github.io/hugo/posts/2022/05/02/hugo_mermaid/</link>
+      <pubDate>Mon, 02 May 2022 11:33:20 +0900</pubDate>
+      
+      <guid>https://tmd-tty.github.io/hugo/posts/2022/05/02/hugo_mermaid/</guid>
+      <description>Hugoでmermaidを表示したかったので、導入時のメモ。 あんまりHugoを理解していないけどその勉強はまたいつか・・・
+環境 $ hugo version hugo v0.97.3+extended linux/amd64 BuildDate=unknown render-codeblock-mermaid.htmlを作成 \layouts\_default\_markup\render-codeblock-mermaid.htmlを作成。
+&amp;lt;div class=&amp;#34;mermaid&amp;#34;&amp;gt; {{- .Inner | safeHTML }} &amp;lt;/div&amp;gt; {{ .Page.Store.Set &amp;#34;hasMermaid&amp;#34; true }} extend_footer.htmlを作成 /layouts/partials/extend_footer.htmlを作成。
+{{ if .Page.Store.Get &amp;#34;hasMermaid&amp;#34; }}  &amp;lt;script src=&amp;#34;https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js&amp;#34;&amp;gt;&amp;lt;/script&amp;gt;  &amp;lt;script&amp;gt;  mermaid.initialize({ startOnLoad: true });  &amp;lt;/script&amp;gt; {{ end }} 結果 graph TD;  A--&amp;gt;B;  A--&amp;gt;C;  B--&amp;gt;D;  C--&amp;gt;D; graph TD; A--B; A--C; B--D; C--D;参考 </description>
+    </item>
+    
+    <item>
       <title>Windows開発環境構築</title>
       <link>https://tmd-tty.github.io/hugo/posts/2022/04/21/</link>
       <pubDate>Thu, 21 Apr 2022 10:02:00 +0900</pubDate>

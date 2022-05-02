@@ -9,7 +9,16 @@
       <link>https://tmd-tty.github.io/hugo/image/buta.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 21 Apr 2022 10:02:00 +0900</lastBuildDate><atom:link href="https://tmd-tty.github.io/hugo/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 02 May 2022 11:33:20 +0900</lastBuildDate><atom:link href="https://tmd-tty.github.io/hugo/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>tech</title>
+      <link>https://tmd-tty.github.io/hugo/categories/tech/</link>
+      <pubDate>Mon, 02 May 2022 11:33:20 +0900</pubDate>
+      
+      <guid>https://tmd-tty.github.io/hugo/categories/tech/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>dev</title>
       <link>https://tmd-tty.github.io/hugo/categories/dev/</link>
