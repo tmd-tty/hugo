@@ -1,13 +1,29 @@
 # categories
 ## work
-+ career
-+ dev
++ tech
 + management
-+ language
++ study
+  + book
+  + certification
+  + language
+  + event
++ career
+  + job
+  + salary
 ## lifestyle
 + hobby
+  + travel
+  + run
+  + game
+  + camp
+  + snowboard
+  + diy
 + gadget
 + money
-+ review
+  + shopping
+  + investment
++ lifeevent
+
 ## other
 + scratchpad
++ review

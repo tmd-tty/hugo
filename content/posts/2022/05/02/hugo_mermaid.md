@@ -2,6 +2,7 @@
 title: "Hugoでmermeaidを表示する"
 date: 2022-05-02T11:33:20+09:00
 draft: false
+showtoc: true
 categories:
 - tech
 tags: 

@@ -2,8 +2,9 @@
 title: "Windows開発環境構築"
 date: 2022-04-21T10:02:00+09:00
 draft: false
+showtoc: true
 categories:
-- dev
+- tech
 tags: 
 - wsl
 - git
