@@ -4,45 +4,75 @@
   <url>
     <loc>https://tmd-tty.github.io/hugo/categories/</loc>
     <lastmod>2022-05-02T11:33:20+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://tmd-tty.github.io/hugo/tags/hugo/</loc>
     <lastmod>2022-05-02T11:33:20+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://tmd-tty.github.io/hugo/posts/2022/05/02/hugo_mermaid/</loc>
     <lastmod>2022-05-02T11:33:20+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://tmd-tty.github.io/hugo/</loc>
     <lastmod>2022-05-02T11:33:20+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://tmd-tty.github.io/hugo/tags/mermaid/</loc>
     <lastmod>2022-05-02T11:33:20+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://tmd-tty.github.io/hugo/tags/</loc>
     <lastmod>2022-05-02T11:33:20+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://tmd-tty.github.io/hugo/categories/tech/</loc>
     <lastmod>2022-05-02T11:33:20+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://tmd-tty.github.io/hugo/categories/dev/</loc>
     <lastmod>2022-04-21T10:02:00+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://tmd-tty.github.io/hugo/tags/git/</loc>
     <lastmod>2022-04-21T10:02:00+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://tmd-tty.github.io/hugo/tags/homebrew/</loc>
     <lastmod>2022-04-21T10:02:00+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://tmd-tty.github.io/hugo/posts/2022/04/21/</loc>
     <lastmod>2022-04-21T10:02:00+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://tmd-tty.github.io/hugo/tags/wsl/</loc>
     <lastmod>2022-04-21T10:02:00+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://tmd-tty.github.io/hugo/posts/</loc>
     <lastmod>2022-04-21T03:15:44+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://tmd-tty.github.io/hugo/archives/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://tmd-tty.github.io/hugo/search/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>
