@@ -18,6 +18,7 @@
   + camp
   + snowboard
   + diy
++ health
 + gadget
 + money
   + shopping
@@ -27,3 +28,10 @@
 ## other
 + scratchpad
 + review
+
+
+# hugo command
+
+```bash
+$ hugo --cleanDestinationDir
+```
