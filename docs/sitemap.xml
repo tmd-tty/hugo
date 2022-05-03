@@ -3,7 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://tmd-tty.github.io/hugo/categories/</loc>
-    <lastmod>2022-05-02T11:33:20+09:00</lastmod>
+    <lastmod>2022-05-03T14:22:53+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://tmd-tty.github.io/hugo/</loc>
+    <lastmod>2022-05-03T14:22:53+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://tmd-tty.github.io/hugo/categories/lifeevent/</loc>
+    <lastmod>2022-05-03T14:22:53+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://tmd-tty.github.io/hugo/tags/memo/</loc>
+    <lastmod>2022-05-03T14:22:53+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://tmd-tty.github.io/hugo/tags/</loc>
+    <lastmod>2022-05-03T14:22:53+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://tmd-tty.github.io/hugo/posts/2022/05/03/</loc>
+    <lastmod>2022-05-03T14:22:53+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -17,17 +42,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://tmd-tty.github.io/hugo/</loc>
-    <lastmod>2022-05-02T11:33:20+09:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://tmd-tty.github.io/hugo/tags/mermaid/</loc>
-    <lastmod>2022-05-02T11:33:20+09:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://tmd-tty.github.io/hugo/tags/</loc>
     <lastmod>2022-05-02T11:33:20+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
