@@ -28,6 +28,8 @@
 ## other
 + scratchpad
 + review
+  + quarterlyreview
+  + annnualreview
 
 
 # hugo command
