@@ -9,7 +9,16 @@
       <link>https://tmd-tty.github.io/hugo/image/buta.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 03 May 2022 14:22:53 +0900</lastBuildDate><atom:link href="https://tmd-tty.github.io/hugo/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 07 May 2022 09:39:26 +0900</lastBuildDate><atom:link href="https://tmd-tty.github.io/hugo/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>scratchpad</title>
+      <link>https://tmd-tty.github.io/hugo/categories/scratchpad/</link>
+      <pubDate>Sat, 07 May 2022 09:39:26 +0900</pubDate>
+      
+      <guid>https://tmd-tty.github.io/hugo/categories/scratchpad/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>lifeevent</title>
       <link>https://tmd-tty.github.io/hugo/categories/lifeevent/</link>
