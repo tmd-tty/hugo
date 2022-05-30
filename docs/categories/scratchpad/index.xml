@@ -9,7 +9,18 @@
       <link>https://tmd-tty.github.io/hugo/image/buta.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 07 May 2022 09:39:26 +0900</lastBuildDate><atom:link href="https://tmd-tty.github.io/hugo/categories/scratchpad/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 May 2022 23:36:42 +0900</lastBuildDate><atom:link href="https://tmd-tty.github.io/hugo/categories/scratchpad/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>住居に関する要件定義</title>
+      <link>https://tmd-tty.github.io/hugo/posts/2022/05/30/duallife/</link>
+      <pubDate>Mon, 30 May 2022 23:36:42 +0900</pubDate>
+      
+      <guid>https://tmd-tty.github.io/hugo/posts/2022/05/30/duallife/</guid>
+      <description>前回思い付きと勢いで住居について検討をはじめて、ここ数週間で２件ほど内見をした。
+物件探しをしてるとやっぱり↑の内容では要件定義不足で検討が進まないので、SEの端くれとして一度しっかり要件定義をしてみる(仕事ではまともにしたことないけど。)
+要求 仕事  夫婦とも自宅で仕事がしたい リモート前提だけど都心の職場に通える距離にはしたい  生活  子育てをしたい(二人くらい？) 自然災害・人的災害リスクを回避・低減したい 車を所有したい  趣味  犬を飼いたい スキー・登山・キャンプへアクセスしやすいといい DIYやレザークラフトのために多少の騒音を出したい 5km~10km程度のランニングがしたい  要件 生活スタイル 立地 建物 </description>
+    </item>
+    
     <item>
       <title>住居に関する計画</title>
       <link>https://tmd-tty.github.io/hugo/posts/2022/05/07/</link>
