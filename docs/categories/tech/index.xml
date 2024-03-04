@@ -12,12 +12,15 @@
     <lastBuildDate>Mon, 02 May 2022 11:33:20 +0900</lastBuildDate><atom:link href="https://tmd-tty.github.io/hugo/categories/tech/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hugoでmermeaidを表示する</title>
-      <link>https://tmd-tty.github.io/hugo/posts/2022/05/02/hugo_mermaid/</link>
+      <link>https://tmd-tty.github.io/hugo/posts/2022/05/02/</link>
       <pubDate>Mon, 02 May 2022 11:33:20 +0900</pubDate>
       
-      <guid>https://tmd-tty.github.io/hugo/posts/2022/05/02/hugo_mermaid/</guid>
-      <description>Hugoでmermaidを表示したかったので、導入時のメモ。 あんまりHugoを理解していないけどその勉強はまたいつか・・・
-環境 $ hugo version hugo v0.97.3+extended linux/amd64 BuildDate=unknown render-codeblock-mermaid.html,　extend_footer.htmlを作成  \layouts\_default\_markup\render-codeblock-mermaid.htmlを作成。 /layouts/partials/extend_footer.htmlを作成。  参考 結果 graph TD;  A--&amp;gt;B;  A--&amp;gt;C;  B--&amp;gt;D;  C--&amp;gt;D; graph TD;A--B;A--C;B--D;C--D;</description>
+      <guid>https://tmd-tty.github.io/hugo/posts/2022/05/02/</guid>
+      <description>Hugoでmermaidを表示したかったので、導入時のメモ。
+環境 $ hugo version hugo v0.97.3+extended linux/amd64 BuildDate=unknown render-codeblock-mermaid.html,　extend_footer.htmlを作成  \layouts\_default\_markup\render-codeblock-mermaid.htmlを作成。 /layouts/partials/extend_footer.htmlを作成。  参考 問題点 このサイトでは、PaperModテーマを使っているが、layouts/_default/baseof.htmlのフッター定義が以下になっている。
+{{ partialCached &amp;#34;footer.html&amp;#34; . .Layout .Kind (.Param &amp;#34;hideFooter&amp;#34;) (.Param &amp;#34;ShowCodeCopyButtons&amp;#34;) -}} partialCachedでpartialが定義されていると、同じlayoutを利用している場合にフッターが再レンダリングされず、{{ if .Store.Get &amp;quot;hasMermaid&amp;quot; }}で、mermaidのコードブロックでsetした値が取得できないと思われる。
+性能影響は不明だけど、一旦次のように条件分岐を削除しておいた。
+extend_footer.html &amp;lt;script type=&amp;#34;module&amp;#34;&amp;gt;  import mermaid from &amp;#39;https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.esm.min.mjs&amp;#39;;  mermaid.initialize({ startOnLoad: true }); &amp;lt;/script&amp;gt; render-codeblock-mermaid.html &amp;lt;pre class=&amp;#34;mermaid&amp;#34;&amp;gt;  {{- .Inner | safeHTML }} &amp;lt;/pre&amp;gt; 結果 graph TD;  A--&amp;gt;B;  A--&amp;gt;C;  B--&amp;gt;D;  C--&amp;gt;D; graph TD;A--B;A--C;B--D;C--D;</description>
     </item>
     
     <item>
