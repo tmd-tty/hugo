@@ -1,5 +1,6 @@
 ---
 title: "Profile"
+layout: "single"
 draft: false
 ---
 
