@@ -66,4 +66,4 @@ $ git config --global credential.helper "/mnt/c/Program\ Files/Git/mingw64/libex
 ```
 
 ## パッケージマネージャー
-MACユーザーなので[Home brew](https://brew.sh/index_ja)をインストール。
+MACユーザーなので[Home brew](https://brew.sh/ja)をインストール。
