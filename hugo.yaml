@@ -1,10 +1,7 @@
 baseURL: https://tmd-tty.github.io/hugo/
-publishDir: docs
-canonifyurls: true
-
 title: Idereal
 paginate: 5
-theme: PaperMod
+theme: ["PaperMod"]
 
 enableRobotsTXT: true
 buildDrafts: false
@@ -16,6 +13,11 @@ googleAnalytics: G-QBRV1G4RBJ
 minify:
   disableXML: true
   minifyOutput: true
+
+
+publishDir: public
+
+
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
