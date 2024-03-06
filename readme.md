@@ -1,3 +1,14 @@
+
+# 構成
+
+## posts
+
+日々の"やったこと"をまとめる
+
+## notes
+
+
+
 # categories
 ## work
 + tech
