@@ -19,7 +19,7 @@ hugo v0.97.3+extended linux/amd64 BuildDate=unknown
 ## アップデート
 
 ```shell
-$ brew hugo upgrade
+$ brew upgrade hugo
 ```
 
 ## アップデート後
