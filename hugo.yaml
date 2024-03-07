@@ -118,27 +118,27 @@ menu:
   main:
     - identifier: profile
       name: profile
-      url: /hugo/profile/
+      url: /profile/
       weight: 1
     - identifier: posts
       name: posts
-      url: /hugo/posts/
+      url: /posts/
       weight: 5
     - identifier: archives
       name: archives
-      url: /hugo/archives/
+      url: /archives/
       weight: 10
     - identifier: categories
       name: categories
-      url: /hugo/categories/
+      url: /categories/
       weight: 15
     - identifier: tags
       name: tags
-      url: /hugo/tags/
+      url: /tags/
       weight: 20
     - identifier: search
       name: search
-      url: /hugo/search/
+      url: /search/
       weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 # pygmentsUseClasses: true
