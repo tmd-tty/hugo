@@ -145,7 +145,7 @@ menu:
 markup:
   goldmark:
     renderer:
-      unsafe: true
+      unsafe: false # HTMLタグを直接記載できるように
 #     highlight:
 #         # anchorLineNos: true
 #         codeFences: true
