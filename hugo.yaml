@@ -3,16 +3,18 @@ title: Idereal
 paginate: 5
 theme: ["PaperMod"]
 
-enableRobotsTXT: true
-buildDrafts: false
-buildFuture: false
-buildExpired: false
+# enableRobotsTXT: true
+# buildDrafts: false
+# buildFuture: false
+# buildExpired: false
 
 googleAnalytics: G-QBRV1G4RBJ
+enableGitInfo: true
 
-minify:
-  disableXML: true
-  minifyOutput: true
+
+# minify:
+#   disableXML: true
+#   minifyOutput: true
 
 
 publishDir: public
@@ -22,7 +24,7 @@ publishDir: public
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Idereal
-  description: "tmdのブログ"
+  description: "tmd-ttyのブログ"
   keywords: [Blog, Portfolio, PaperMod]
   author: tmd
   # author: ["Me", "You"] # multiple authors
@@ -31,12 +33,13 @@ params:
   defaultTheme: dark # dark, light auto
   disableThemeToggle: false
 
-  ShowReadingTime: true
+  ShowReadingTime: false
+  ShowWordCount: false
   ShowShareButtons: true
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
-  ShowCodeCopyButtons: false
-  disableSpecial1stPost: false
+  ShowCodeCopyButtons: true
+  disableSpecial1stPost: true
   disableScrollToTop: false
   comments: false
   hidemeta: false
