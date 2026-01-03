@@ -1,7 +1,8 @@
 baseURL: https://tmd-tty.github.io/hugo/
 title: Idereal
-paginate: 5
-theme: ["PaperMod"]
+pagination:
+  pagerSize: 5
+theme: PaperMod
 
 # enableRobotsTXT: true
 # buildDrafts: false
@@ -22,7 +23,7 @@ publishDir: public
 
 
 params:
-  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  # env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Idereal
   description: "tmd-ttyのブログ"
   keywords: [Blog, Portfolio, PaperMod]
@@ -81,13 +82,6 @@ params:
     Title: "Hi there \U0001F44B"
     Content: Welcome to my blog
 
-  socialIcons:
-    - name: twitter
-      url: "https://twitter.com/"
-    - name: stackoverflow
-      url: "https://stackoverflow.com"
-    - name: github
-      url: "https://github.com/"
 
   analytics:
     google:
